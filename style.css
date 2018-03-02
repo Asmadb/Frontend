@@ -1,0 +1,40 @@
+	a:hover 
+	{ 
+		color:#FFFFFF !important;
+	}
+	.bg-company-black 
+	{
+		background-color:#242D38 !important;
+	}
+	a:hover 
+	{
+		cursor:default !important;
+	}
+	.dropdown-menu a:hover 
+	{
+		background-color: #EEEEEE !important;
+		color: #313944 !important;
+		font-weight: 500 !important;
+	}
+	img:hover 
+	{
+		opacity:0.5 !important; 
+	}
+	body
+	{
+		background-color: #6C7988;
+	}
+	.pull-xs-right
+	{
+		position: absolute !important;
+		right: 30px !important;
+	}
+	@media (max-width:768px) 
+	{
+		.pull-xs-right 
+		{
+			display: inline !important; 
+			position: relative !important;
+			left: 2px !important;
+		}
+	}
